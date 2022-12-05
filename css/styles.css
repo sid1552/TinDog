@@ -43,8 +43,8 @@ h2 {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat Alternates", sans-serif;
-  font-weight: lighter;
-  color: aquamarine;
+  font-weight: 400;
+  color: #FCF9BE;
 }
 
 .download-button {
